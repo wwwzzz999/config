@@ -7,7 +7,7 @@ spring:
   application:
     name: config-client
 
-  cloud:
-    consul:
-      host: localhost
-      port: 8500
+#   cloud:
+#     consul:
+#       host: localhost
+#       port: 8500
